@@ -18,9 +18,9 @@ JavaScript   29 mins         █████████████████
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wuricong&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 
-### 👨‍🚒 关于我
+### 👨‍🚒 About Me
 
 
-### 🔥 我的项目
+### 🔥 My Project
 
 
