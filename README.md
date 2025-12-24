@@ -23,5 +23,6 @@ JavaScript   29 mins         █████████████████
 
 ### 🔥 My Project
 - 🔰 [`react项目`](https://wuricong.github.io/react-project)
+- 🔰 [`个人浏览器插件`](https://wuricong.github.io/react-project)
 
 
